@@ -1,6 +1,6 @@
 {
   "name": "uuidify",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "takes long string and return uuid format",
   "main": "index.js",
   "scripts": {
