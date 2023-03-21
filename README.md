@@ -1,6 +1,8 @@
 uuidify
 =======
 
+takes long string and return uuid format
+
 Installation
 ============
     npm i uuidify
