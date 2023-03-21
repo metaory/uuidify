@@ -1,0 +1,19 @@
+{
+  "name": "uuidify",
+  "version": "0.0.1",
+  "description": "takes long string and return uuid format",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/metaory/uuidify.git"
+  },
+  "keywords": [
+    "uuid",
+    "format"
+  ],
+  "author": "metaory <metaory@gmail.com>",
+  "license": "MIT"
+}
